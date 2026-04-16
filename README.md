@@ -13,6 +13,24 @@ A plugin for [opencode](https://github.com/anomalyco/opencode) that counts and c
 
 ## Installation
 
+### via npm (Recommended)
+
+```bash
+npm install @jialanhu/character-counter
+```
+
+Then add to `opencode.json`:
+
+```json
+{
+  "plugins": {
+    "paths": ["./node_modules/@jialanhu/character-counter"]
+  }
+}
+```
+
+### Manual Installation
+
 1. Copy the plugin files to your opencode plugins directory:
 
 ```bash

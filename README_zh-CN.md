@@ -13,6 +13,24 @@
 
 ## 安装步骤
 
+### via npm（推荐）
+
+```bash
+npm install @jialanhu/character-counter
+```
+
+然后在 `opencode.json` 中添加：
+
+```json
+{
+  "plugins": {
+    "paths": ["./node_modules/@jialanhu/character-counter"]
+  }
+}
+```
+
+### 手动安装
+
 1. 将插件文件复制到 opencode 插件目录：
 
 ```bash

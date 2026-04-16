@@ -1,0 +1,9 @@
+.github/
+tests/
+*.test.ts
+tsconfig.json
+dist/
+.gitignore
+*.md
+!LICENSE
+!README_zh-CN.md
