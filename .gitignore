@@ -1,3 +1,9 @@
 node_modules/
 dist/
 .opencode/
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+coverage/
