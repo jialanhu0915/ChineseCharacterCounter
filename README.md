@@ -1,3 +1,5 @@
+> 中文版本: [README_zh-CN.md](./README_zh-CN.md)
+
 # Chinese Character Counter Plugin
 
 A plugin for [opencode](https://github.com/anomalyco/opencode) that counts and categorizes characters in text, displaying statistics in a `<system-reminder>` tag after `write` tool execution.
@@ -74,8 +76,7 @@ Enter any text to see character statistics.
 │       └── cli.ts        # CLI adaptor
 ├── tests/
 │   └── counter.test.ts   # Unit tests
-└── docs/
-    └── plans/            # Implementation plans
+└── LICENSE
 ```
 
 ## Development

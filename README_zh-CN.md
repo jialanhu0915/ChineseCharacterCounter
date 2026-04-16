@@ -1,3 +1,5 @@
+> English version: [README.md](./README.md)
+
 # 中文字符统计插件
 
 一款为 [opencode](https://github.com/anomalyco/opencode) 打造的插件，在 `write` 工具执行后统计文本字符，并以 `<system-reminder>` 标签形式展示结果。
@@ -74,8 +76,7 @@ cp -r src/* ~/.opencode/plugins/character-counter/
 │       └── cli.ts       # CLI 适配器
 ├── tests/
 │   └── counter.test.ts   # 单元测试
-└── docs/
-    └── plans/            # 实施计划文档
+└── LICENSE
 ```
 
 ## 开发
