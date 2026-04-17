@@ -1,6 +1,6 @@
 {
   "name": "@jialanhu/character-counter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "description": "Character counting plugin for opencode - intercepts write tool and returns character statistics",
   "main": "dist/index.js",
