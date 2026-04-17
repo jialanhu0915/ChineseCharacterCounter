@@ -56,6 +56,7 @@ const CharacterCounterPlugin: Plugin = async (ctx) => {
   };
 };
 
+export const server = CharacterCounterPlugin;
 export default CharacterCounterPlugin;
 
 /**
