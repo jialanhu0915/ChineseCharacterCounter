@@ -57,7 +57,10 @@ const CharacterCounterPlugin: Plugin = async (ctx) => {
 };
 
 export const server = CharacterCounterPlugin;
-export default CharacterCounterPlugin;
+export default {
+  id: "jialanhu.character-counter",
+  server: CharacterCounterPlugin,
+};
 
 /**
  * Extract content from write tool arguments
